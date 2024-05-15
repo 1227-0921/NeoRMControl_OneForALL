@@ -1,5 +1,5 @@
-STUID = ~~~~~~# 学号
-STUNAME = fcy# 姓名
+STUID = 11451# 学号
+STUNAME = 马XX# 姓名
 
 # DO NOT modify the following code!!!
 
